@@ -1,0 +1,30 @@
+ Como trocar o pneu do carro:
+Pegue o macaco hidráulico
+Levante o carro com essa ferramenta 
+Pegue a chave de boca 
+Tire os parafusos com a chave de boca 
+Retire o pneu 
+Coloque outro 
+E parafuse novamente 
+E esta pronto
+
+Como tomar banho: 
+Abra a o chuveiro 
+Passe em todo seu corpo
+Pegue o shampoo e passe no cabelo  
+Enxugue tudo 
+Deslige o chuveiro 
+ se seque
+
+ Deslige a energia: 
+Gire a lâmpada para esquerda sair do bocal 
+Coloque a numa caixa de leite para jogar fora 
+Pegue uma outra 
+Coloque no bocal 
+Gire para direita
+
+algoritmo para a soma:
+A+B= C 
+C×A=
+Some o valor de A ao valor de B 
+O resultado dessa soma multiplique por A
